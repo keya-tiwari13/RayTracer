@@ -1,2 +1,2 @@
 # RayTracer
-Python Ray Tracer
+A simple Ray Tracer created with Python.
